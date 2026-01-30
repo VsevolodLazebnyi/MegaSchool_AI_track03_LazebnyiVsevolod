@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-core
+langchain-mistralai
+langgraph
+ultralytics
+numpy<2
+opencv-python<4.13
+SpeechRecognition
+pyaudio
+gTTS
+pydub
+python-dotenv
+pillow
+watchdog
+pyttsx3
+streamlit-autorefresh
